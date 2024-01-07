@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://discept-iisg.github.io//sitemap.xml
+Sitemap: https://discept-iisg.github.io/sitemap.xml
